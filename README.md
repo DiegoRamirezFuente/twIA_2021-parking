@@ -6,7 +6,7 @@ El proyecto trata de crear un parking público que identifique a los vehículos 
 
 Laura Lucía Hernández @LauraHCampos
 Gabriel Tur Castro @gabrieltur
-
+Diego Ramírez Fuente @DiegoRamirezFuente
 ## Objetivos del trabajo
 
 [Lista de los objetivos que se persiguen con el trabajo propuesto.]
